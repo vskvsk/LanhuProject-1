@@ -486,62 +486,17 @@
         />
       </div>
     </div>
-    <van-tabbar
-      class="tab-bar_1 TabBar"
-      active-color="undefined"
-      inactive-color="undefined"
-      v-model="TabBar_tab_bar_1"
-      :border="false"
-      :fixed="false"
-    >
-      <van-tabbar-item class="tab-bar-item_1" name="TabBar_tab_bar_10">
-        <template #icon>
-          <div class="icon_11 flex-col">
-            <img
-              class="icon_12"
-              referrerpolicy="no-referrer"
-              src="./assets/img/icon2.png"
-            />
-            <span class="text_95">首页</span>
-          </div>
-        </template>
-      </van-tabbar-item>
-      <van-tabbar-item class="tab-bar-item_2" name="TabBar_tab_bar_11">
-        <template #icon>
-          <div class="icon_13 flex-col">
-            <div class="group_33 flex-col">
-              <img
-                class="icon_14"
-                referrerpolicy="no-referrer"
-                src="./assets/img/icon3.png"
-              />
-              <span class="text_96">动态</span>
-            </div>
-          </div>
-        </template>
-      </van-tabbar-item>
-      <van-tabbar-item class="tab-bar-item_3" name="TabBar_tab_bar_12">
-        <template #icon>
-          <div class="icon_15 flex-col">
-            <img
-              class="icon_16"
-              referrerpolicy="no-referrer"
-              src="./assets/img/icon4.png"
-            />
-            <span class="text_97">应用</span>
-          </div>
-        </template>
-      </van-tabbar-item>
-    </van-tabbar>
-    <img
-      class="image_19"
-      referrerpolicy="no-referrer"
-      src="./assets/img/bg5.png"
-    />
+    <TabBar />
   </div>
 </template>
+
 <script>
+import TabBar from '@/components/TabBar.vue';
+
 export default {
+  components: {
+    TabBar
+  },
   data() {
     return {
       loopData0: [

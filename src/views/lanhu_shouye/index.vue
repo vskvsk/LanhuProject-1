@@ -57,40 +57,7 @@
           src="./assets/img/SketchPngd9d46b8b496a34ef2cb59a3b4bc17c5b361482fd3ceb1be3b27ecf0413fcc2b4.png"
         />
       </div>
-      <div class="tab-bar_1 flex-row justify-between">
-        <div class="tab-bar-item_1 flex-col">
-          <div class="icon_2 flex-col">
-            <img
-              class="icon_3"
-              referrerpolicy="no-referrer"
-              src="./assets/img/SketchPngfb1035ca377780535a72d79bad4ca24e17cb3d32d65ba379beb7802efb09a020.png"
-            />
-            <span class="text_11">首页</span>
-          </div>
-        </div>
-        <div class="tab-bar-item_2 flex-col">
-          <div class="icon_4 flex-col">
-            <div class="box_2 flex-col">
-              <img
-                class="icon_5"
-                referrerpolicy="no-referrer"
-                src="./assets/img/df7c010c135b46deb942a1481c82c44b_mergeImage.png"
-              />
-              <span class="text_12">动态</span>
-            </div>
-          </div>
-        </div>
-        <div class="tab-bar-item_3 flex-col">
-          <div class="icon_6 flex-col">
-            <img
-              class="icon_7"
-              referrerpolicy="no-referrer"
-              src="./assets/img/SketchPngfa4048cb8baf2ad9b3e76e0d0078c3b0d2019c32a7decde51443425f3656c5fb.png"
-            />
-            <span class="text_13">应用</span>
-          </div>
-        </div>
-      </div>
+      <TabBar />
     </div>
     <img
       class="image_5"
@@ -100,13 +67,17 @@
   </div>
 </template>
 <script>
+import TabBar from '@/components/TabBar.vue';
+
 export default {
+  components: {
+    TabBar
+  },
   data() {
     return {
       loopData0: [
         {
-          lanhuBg0:
-            'url(https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng16f3b49bb00ba57cdcee3351b24ef05a088dd22c9c0054ea35f7c0fd95b76343) 100% no-repeat',
+          lanhuBg0: 'rgba(255,255,255,1.000000)',
           lanhutext0: '资讯中心',
           lanhutext1: '每日热点资讯触达',
           lanhuimage0:
@@ -134,8 +105,7 @@ export default {
             'https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng1e848a524ab36c4c91b482025fa0320f16d0efb5aff9955266f2f9a34d0299a8'
         },
         {
-          lanhuBg0:
-            'url(https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng16f3b49bb00ba57cdcee3351b24ef05a088dd22c9c0054ea35f7c0fd95b76343) 100% no-repeat',
+          lanhuBg0: 'rgba(255,255,255,1.000000)',
           lanhutext0: '生命周期',
           lanhutext1: '可视化看板，一键了解客户状态',
           lanhuimage0:
@@ -147,7 +117,6 @@ export default {
   },
   methods: {
     handleItemClick() {
-      // Navigate to the wuzimokuaibiaoti page
       this.$router.push('/lanhu_shouye_wuzimokuaibiaoti');
     }
   }
