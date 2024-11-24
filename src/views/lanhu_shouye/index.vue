@@ -5,7 +5,7 @@
         <img
           class="icon_1"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPng40d15db83a2ca19ca4b437783085c00000036135f23c3d03e200a60b96c5d71e.png"
+          src="./assets/img/back.png"
         />
         <span class="text_3">工作台</span>
         <div class="block_1 flex-col">
@@ -13,7 +13,7 @@
             <img
               class="image_1"
               referrerpolicy="no-referrer"
-              src="./assets/img/5f250da0d5e04d7da9e64ccee33e34ed_mergeImage.png"
+              src="./assets/img/more.png"
             />
             <div class="box_1 flex-col"></div>
           </div>
@@ -46,7 +46,7 @@
         <img
           class="image_3"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPng94422d9b5628a2b70309768b194303bcc65b3864746366b485f8f4de15c0543a.png"
+          src="./assets/img/icon.png"
         />
       </div>
       <div class="group_6 flex-row">
@@ -54,7 +54,7 @@
         <img
           class="image_4"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPngd9d46b8b496a34ef2cb59a3b4bc17c5b361482fd3ceb1be3b27ecf0413fcc2b4.png"
+          src="./assets/img/icon.png"
         />
       </div>
       <TabBar />
@@ -62,7 +62,7 @@
     <img
       class="image_5"
       referrerpolicy="no-referrer"
-      src="./assets/img/SketchPngf4275db41b04f12309104761407ecc1d9e7301b590323e6d7c0feed4b4f7a91c.png"
+      src="./assets/img/icon.png"
     />
   </div>
 </template>
@@ -80,36 +80,31 @@ export default {
           lanhuBg0: 'rgba(255,255,255,1.000000)',
           lanhutext0: '资讯中心',
           lanhutext1: '每日热点资讯触达',
-          lanhuimage0:
-            'https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng955d6396cb3fd070457411401a1e72a48494dc58bb2f2d8ca8ed7047cfb3a11d'
+          lanhuimage0: require('./assets/img/icon.png')
         },
         {
           lanhuBg0: 'rgba(255,255,255,1.000000)',
           lanhutext0: '素材中心',
           lanhutext1: '最新推广素材一站式获取',
-          lanhuimage0:
-            'https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng20ec298ae40ce52b787aded34c22c67b90ce798484c0053173f9baddcb222260'
+          lanhuimage0: require('./assets/img/icon.png')
         },
         {
           lanhuBg0: 'rgba(255,255,255,1.000000)',
           lanhutext0: '活动中心',
           lanhutext1: '活动上新快速分发',
-          lanhuimage0:
-            'https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng2d600ee56f97c323ff3e566a687cd2bc796df20433de1433d6ea7c18ed098515'
+          lanhuimage0: require('./assets/img/icon.png')
         },
         {
           lanhuBg0: 'rgba(255,255,255,1.000000)',
           lanhutext0: '产品中心',
           lanhutext1: '最新推广素材一站式获取',
-          lanhuimage0:
-            'https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng1e848a524ab36c4c91b482025fa0320f16d0efb5aff9955266f2f9a34d0299a8'
+          lanhuimage0: require('./assets/img/icon.png')
         },
         {
           lanhuBg0: 'rgba(255,255,255,1.000000)',
           lanhutext0: '生命周期',
           lanhutext1: '可视化看板，一键了解客户状态',
-          lanhuimage0:
-            'https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPnge417e322f0c648477d21c4adc593cb19b86c12c73957844fa9d086377a1e9854'
+          lanhuimage0: require('./assets/img/icon.png')
         }
       ],
       constants: {}

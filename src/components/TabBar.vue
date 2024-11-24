@@ -5,7 +5,7 @@
         <img
           class="icon_3"
           referrerpolicy="no-referrer"
-          src="../views/lanhu_shouye/assets/img/SketchPngfb1035ca377780535a72d79bad4ca24e17cb3d32d65ba379beb7802efb09a020.png"
+          src="../views/lanhu_shouye/assets/img/icon1.png"
         />
         <span class="text_11">首页</span>
       </div>
@@ -16,7 +16,7 @@
           <img
             class="icon_5"
             referrerpolicy="no-referrer"
-            src="../views/lanhu_shouye/assets/img/df7c010c135b46deb942a1481c82c44b_mergeImage.png"
+            src="../views/lanhu_shouye/assets/img/icon2.png"
           />
           <span class="text_12">动态</span>
         </div>
@@ -27,7 +27,7 @@
         <img
           class="icon_7"
           referrerpolicy="no-referrer"
-          src="../views/lanhu_shouye/assets/img/SketchPngfa4048cb8baf2ad9b3e76e0d0078c3b0d2019c32a7decde51443425f3656c5fb.png"
+          src="../views/lanhu_shouye/assets/img/icon3.png"
         />
         <span class="text_13">应用</span>
       </div>
