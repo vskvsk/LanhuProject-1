@@ -4,14 +4,14 @@
       <img
         class="image_1"
         referrerpolicy="no-referrer"
-        src="./assets/img/SketchPngcb00be28a21c25efce1ce18c153d3fa41593d431f415c47ca9d8a191db96ee5d.png"
+        src="./assets/img/head.png"
       />
       <van-nav-bar class="nav-bar_1 NavBar">
         <template #left>
           <img
             class="image_2"
             referrerpolicy="no-referrer"
-            src="./assets/img/SketchPng38a8811456c4172e5cd22b0f78183622493eefabe43595ef3a805675f4ee0ec4.png"
+            src="./assets/img/back.png"
           />
         </template>
         <template #title>
@@ -21,7 +21,7 @@
           <img
             class="image_3"
             referrerpolicy="no-referrer"
-            src="./assets/img/SketchPng5017b7bc3d6e53057a31f94fafce3be6ab9dc0f169f075c2b032cabf29d618de.png"
+            src="./assets/img/bg1.png"
           />
         </template>
       </van-nav-bar>
@@ -60,7 +60,7 @@
         <img
           class="icon_1"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPngb774607f3070b531fe304c0b0ff4d2fb60ac805db8d9577f29884f33ec9e3c8d.png"
+          src="./assets/img/icon1.png"
         />
         <span class="text-group_3">热点分享</span>
       </div>
@@ -84,7 +84,7 @@
         <img
           class="image_4"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPng181b58bbaee69639b759cb9a5ea5851607a2bc6134459460fe70fde4b5536e1b.png"
+          src="./assets/img/img1.png"
         />
         <div class="group_5 flex-col justify-between">
           <span class="text_14">资产质量好转、零售业绩AMU创招行业绩透露了</span>
@@ -98,13 +98,13 @@
       <img
         class="image_5"
         referrerpolicy="no-referrer"
-        src="./assets/img/SketchPngaa7ddd5ebdb02bcfa062d226b1cdcabb89cf336afcf99c98f1b10ca872b58527.png"
+        src="./assets/img/line1.png"
       />
       <div class="group_6 flex-row justify-between">
         <img
           class="image_6"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPng181b58bbaee69639b759cb9a5ea5851607a2bc6134459460fe70fde4b5536e1b.png"
+          src="./assets/img/img1.png"
         />
         <div class="box_3 flex-col justify-between">
           <span class="text_18">资产质量好转、零售业绩AMU创招行业绩透露了</span>
@@ -118,13 +118,13 @@
       <img
         class="image_7"
         referrerpolicy="no-referrer"
-        src="./assets/img/SketchPngaa7ddd5ebdb02bcfa062d226b1cdcabb89cf336afcf99c98f1b10ca872b58527.png"
+        src="./assets/img/line1.png"
       />
       <div class="group_7 flex-row justify-between">
         <img
           class="image_8"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPng181b58bbaee69639b759cb9a5ea5851607a2bc6134459460fe70fde4b5536e1b.png"
+          src="./assets/img/img1.png"
         />
         <div class="group_8 flex-col justify-between">
           <span class="text_22">资产质量好转、零售业绩AMU创招行业绩透露了</span>
@@ -140,13 +140,13 @@
         <img
           class="icon_2"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPng6e8878b04f853252b8daf1e19f9999e0bb98f17837d9ca0adb7a61262bb6ee78.png"
+          src="./assets/img/arr1.png"
         />
       </div>
       <img
         class="image_9"
         referrerpolicy="no-referrer"
-        src="./assets/img/SketchPngaa7ddd5ebdb02bcfa062d226b1cdcabb89cf336afcf99c98f1b10ca872b58527.png"
+        src="./assets/img/line1.png"
       />
       <div class="group_9 flex-row">
         <div class="block_5 flex-col">
@@ -156,7 +156,7 @@
                 <img
                   class="image_10"
                   referrerpolicy="no-referrer"
-                  src="./assets/img/SketchPngf931bacaf0383062f85c6f53985566ae75be7c7cf804f343b5b79da5c752333a.png"
+                  src="./assets/img/bg2.png"
                 />
               </div>
             </div>
@@ -170,7 +170,7 @@
           <img
             class="label_1"
             referrerpolicy="no-referrer"
-            src="./assets/img/SketchPngb1c0c10f2635ba49ca3656eeab34c8acb6d394a83c265b20f474feb9882f97a8.png"
+            src="./assets/img/arr2.png"
           />
         </div>
       </div>
@@ -183,12 +183,12 @@
           <img
             class="image_11"
             referrerpolicy="no-referrer"
-            src="./assets/img/SketchPngc0c07b6c05fb162f6cc0b88e776ccc60a39a08e5b00c9da6ab690444cde270ae.png"
+            src="./assets/img/bg3.png"
           />
           <img
             class="image_12"
             referrerpolicy="no-referrer"
-            src="./assets/img/SketchPngc0c07b6c05fb162f6cc0b88e776ccc60a39a08e5b00c9da6ab690444cde270ae.png"
+            src="./assets/img/bg3.png"
           />
         </div>
         <div class="text-group_7 flex-col justify-between">
@@ -204,7 +204,7 @@
           <img
             class="icon_3"
             referrerpolicy="no-referrer"
-            src="./assets/img/SketchPngb1c0c10f2635ba49ca3656eeab34c8acb6d394a83c265b20f474feb9882f97a8.png"
+            src="./assets/img/arr2.png"
           />
         </div>
       </div>
@@ -214,7 +214,7 @@
         <img
           class="icon_4"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPngb774607f3070b531fe304c0b0ff4d2fb60ac805db8d9577f29884f33ec9e3c8d.png"
+          src="./assets/img/arr2.png"
         />
         <span class="text-group_10">服务直击</span>
       </div>
@@ -233,7 +233,7 @@
           <img
             class="icon_5"
             referrerpolicy="no-referrer"
-            src="./assets/img/SketchPng9845952886a51e7eb8c441181e0f0c32561f9633b94a8733268b068fa69aa832.png"
+            src="./assets/img/arr2.png"
           />
         </div>
       </div>
@@ -257,7 +257,7 @@
         <img
           class="icon_7"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPngb774607f3070b531fe304c0b0ff4d2fb60ac805db8d9577f29884f33ec9e3c8d.png"
+          src="./assets/img/arr2.png"
         />
         <span class="text-group_13">生命周期服务</span>
       </div>
@@ -287,7 +287,7 @@
           <img
             class="image_13"
             referrerpolicy="no-referrer"
-            src="./assets/img/SketchPngb643c8cfe58f45f8ea72aaf8a32d8086d92a71094954d911d1d95e30f7b0dfec.png"
+            src="./assets/img/line2.png"
           />
         </div>
       </div>
@@ -308,7 +308,7 @@
           <img
             class="image_14"
             referrerpolicy="no-referrer"
-            src="./assets/img/SketchPngb643c8cfe58f45f8ea72aaf8a32d8086d92a71094954d911d1d95e30f7b0dfec.png"
+            src="./assets/img/line2.png"
           />
         </div>
       </div>
@@ -325,7 +325,7 @@
           <img
             class="image_15"
             referrerpolicy="no-referrer"
-            src="./assets/img/SketchPngb643c8cfe58f45f8ea72aaf8a32d8086d92a71094954d911d1d95e30f7b0dfec.png"
+            src="./assets/img/line2.png"
           />
         </div>
       </div>
@@ -334,7 +334,7 @@
         <img
           class="label_2"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPng6e8878b04f853252b8daf1e19f9999e0bb98f17837d9ca0adb7a61262bb6ee78.png"
+          src="./assets/img/arr1.png"
         />
       </div>
       <div class="group_21 flex-col"></div>
@@ -344,14 +344,14 @@
         <img
           class="icon_8"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPngb774607f3070b531fe304c0b0ff4d2fb60ac805db8d9577f29884f33ec9e3c8d.png"
+          src="./assets/img/arr2.png"
         />
         <span class="text-group_15">客户活动中心</span>
       </div>
       <img
         class="image_16"
         referrerpolicy="no-referrer"
-        src="./assets/img/SketchPngb5b2197fab2c28ed0d3cf6251facce2f2d834d489c1d5eaad392659122d9a09f.png"
+        src="./assets/img/img3.png"
       />
       <div class="group_22 flex-row justify-between">
         <div class="text-wrapper_8 flex-col"><span class="text_61">进行中</span></div>
@@ -373,7 +373,7 @@
         <img
           class="icon_9"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPng6e8878b04f853252b8daf1e19f9999e0bb98f17837d9ca0adb7a61262bb6ee78.png"
+          src="./assets/img/arr1.png"
         />
       </div>
     </div>
@@ -382,7 +382,7 @@
         <img
           class="icon_10"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPngb774607f3070b531fe304c0b0ff4d2fb60ac805db8d9577f29884f33ec9e3c8d.png"
+          src="./assets/img/arr2.png"
         />
         <span class="text-group_17">产品销售</span>
       </div>
@@ -411,13 +411,13 @@
         <img
           class="label_3"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPngbcfb2320f0879fd4f053797251e5157227b1aedba28100b2d78c9385bea786c2.png"
+          src="./assets/img/img1.png"
         />
       </div>
       <img
         class="image_17"
         referrerpolicy="no-referrer"
-        src="./assets/img/SketchPngaa7ddd5ebdb02bcfa062d226b1cdcabb89cf336afcf99c98f1b10ca872b58527.png"
+        src="./assets/img/line1.png"
       />
       <div class="group_27 flex-row justify-between">
         <div class="text-group_19 flex-col justify-between">
@@ -444,13 +444,13 @@
         <img
           class="label_4"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPngbcfb2320f0879fd4f053797251e5157227b1aedba28100b2d78c9385bea786c2.png"
+          src="./assets/img/bg4.png"
         />
       </div>
       <img
         class="image_18"
         referrerpolicy="no-referrer"
-        src="./assets/img/SketchPngaa7ddd5ebdb02bcfa062d226b1cdcabb89cf336afcf99c98f1b10ca872b58527.png"
+        src="./assets/img/line1.png"
       />
       <div class="group_30 flex-row justify-between">
         <span class="paragraph_3">
@@ -474,7 +474,7 @@
         <img
           class="label_5"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPngbcfb2320f0879fd4f053797251e5157227b1aedba28100b2d78c9385bea786c2.png"
+          src="./assets/img/bg4.png"
         />
       </div>
       <div class="image-text_13 flex-row justify-between">
@@ -482,7 +482,7 @@
         <img
           class="label_6"
           referrerpolicy="no-referrer"
-          src="./assets/img/SketchPng6e8878b04f853252b8daf1e19f9999e0bb98f17837d9ca0adb7a61262bb6ee78.png"
+          src="./assets/img/arr1.png"
         />
       </div>
     </div>
@@ -500,7 +500,7 @@
             <img
               class="icon_12"
               referrerpolicy="no-referrer"
-              src="./assets/img/SketchPngbf4f33a1ceb0eeb12a2b166a766a72ba52d32b5a8cbc18aa69c027cf63daf7cc.png"
+              src="./assets/img/icon2.png"
             />
             <span class="text_95">首页</span>
           </div>
@@ -513,7 +513,7 @@
               <img
                 class="icon_14"
                 referrerpolicy="no-referrer"
-                src="./assets/img/48145e2b9286447d89f04a8be65391d9_mergeImage.png"
+                src="./assets/img/icon3.png"
               />
               <span class="text_96">动态</span>
             </div>
@@ -526,7 +526,7 @@
             <img
               class="icon_16"
               referrerpolicy="no-referrer"
-              src="./assets/img/SketchPng53269dc57e3d3511c32606afe84fd0a547bfa69fc0cb272db2a8a3d28770fc50.png"
+              src="./assets/img/icon4.png"
             />
             <span class="text_97">应用</span>
           </div>
@@ -536,7 +536,7 @@
     <img
       class="image_19"
       referrerpolicy="no-referrer"
-      src="./assets/img/SketchPngf4275db41b04f12309104761407ecc1d9e7301b590323e6d7c0feed4b4f7a91c.png"
+      src="./assets/img/bg5.png"
     />
   </div>
 </template>
@@ -554,8 +554,7 @@ export default {
       Tabs_tabs_2: 2,
       loopData1: [
         {
-          lanhuBg0:
-            'url(https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng084d6847ce6672d9d65f41f82d6eef8f5416daee562e02512e6bb122bad61c22) 100% no-repeat',
+          lanhuBg0:'#FFFFFF',
           lanhutext0: '查看客户分组，快速识别特征客户',
           lanhufontColor0: 'rgba(108,122,184,1)',
           lanhutext1: '去查看',
@@ -564,8 +563,7 @@ export default {
             'https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng4a454ff86d6c8ff1ac2ce08e9d9083c98df9f3d2cd9627e40811ffb0bd68022f'
         },
         {
-          lanhuBg0:
-            'url(https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng69e83dd073dc1be3926012ace8b5c3e7fa065471eb168820a300fdec8c7dcc3b) 100% no-repeat',
+          lanhuBg0:'#FFFFFF',
           lanhutext0: '您还有XX位客户待添加好友，快去添加吧～',
           lanhufontColor0: 'rgba(63,130,128,1)',
           lanhutext1: '去添加',
@@ -574,8 +572,7 @@ export default {
             'https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng88576d151afbc195fe78b246f2b00f1e65dffe22947c28a9d685a8a881f89d59'
         },
         {
-          lanhuBg0:
-            'url(https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng3e61075979a0aaa597d10cf5449a270c41d0f9748fc2e3a0479009b76c115abe) 100% no-repeat',
+          lanhuBg0:'#FFFFFF',
           lanhutext0: '管理员为您分配了XX条线索，快去跟进吧～',
           lanhufontColor0: 'rgba(171,115,77,1)',
           lanhutext1: '去跟进',
